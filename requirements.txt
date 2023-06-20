@@ -1,0 +1,6 @@
+numpy
+torch
+torchvision
+easyocr
+openvino-dev
+opencv-python
